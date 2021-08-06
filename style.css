@@ -1,0 +1,38 @@
+h1{
+    color:blue;
+    }  
+*{
+    border: solid;
+    }   
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p, h2{
+    text-align: center;
+}
+
+body{
+    background-color: #00ff00
+}
+
+/*
+how to write a grey color in Hex
+#6numbers
+256/2 = 128 /16 = qoutient-8 and remainder-0
+#80
+
+
+*/
